@@ -2,6 +2,6 @@
 
 ### I have a few projects on here:
 
-EEPSeaBoat and DECA_Challenge are both from my University work at Imperial College
+EEPSeaBoat2025 and DECA2Labs_Challenge are both from my University work at Imperial College
 
-and Circuit_detection is a personal project! 
+Circuit_Detection is a personal project! 
